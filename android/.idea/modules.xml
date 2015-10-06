@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.6.1/0.6.1.iml" filepath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.6.1/0.6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.6.1/0.6.1.iml" filepath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.6.1/0.6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.6.1/0.6.1.iml" filepath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.6.1/0.6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.6.1/0.6.1.iml" filepath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.6.1/0.6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/23.0.0.iml" filepath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/23.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/23.0.0.iml" filepath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/23.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
+    </modules>
+  </component>
+</project>
